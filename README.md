@@ -1,2 +1,28 @@
-# supply-chain-project-management-and-team-collaboration-notion-template
-This comprehensive Notion template is designed for supply chain professionals and teams who need a centralized hub to manage projects, track inventory, coordinate logistics, and collaborate effectively. It includes a master project dashboard with real-time status updates, a supplier database with contact and performance metrics, a purchase order tr
+# Supply Chain Project Management and Team Collaboration Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x214n12DcYI8FG9rKcZX0M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x214n12DcYI8FG9rKcZX0M)
+
